@@ -7,7 +7,7 @@ me := AboutMe{
 		City:      "São Paulo, SP",
 		Languages: []string{"Portugues-BR", "English"},
 		Interests: []string{"Back-end", "RestApi","MicrosServices", "Software Analyst"},
-		Hobbies:   []string{"Studies & Reading", "Programming", "Games", "Chemical", "Automations", "Animes"},
+		Hobbies:   []string{"Studies & Reading", "Programming", "Games","Astronomy", "Chemical", "Automations", "Animes"},
 		FunFact:   []string{"I ended up creating a discord bot, just for tabletop rpg", "I love Create (minecraft mod)", "Factorio its a good game for automations","I was always interested in chemistry, but I ended up studying programming"}
 	}
 ```
